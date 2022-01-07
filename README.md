@@ -7,3 +7,5 @@ membuat rest api sederhana dengan GO
 3. ketik " go get github.com/go-sql-driver/mysql "
 4. ketik " go get github.com/gorilla/mux "
 5. creat new file " main.go "
+
+Pengalaman pertama membuat Rest-API, maaf jika masih banyak kekurangan
